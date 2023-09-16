@@ -1,0 +1,402 @@
+[
+   {
+      "value": "5 spice powder",
+      "label": "5 épices en poudre"
+   },
+   {
+      "value": "acorn squash",
+      "label": "Courge poivrée"
+   },
+   {
+      "value": "adobo sauce",
+      "label": "Sauce adobo"
+   },
+   {
+      "value": "agave nectar",
+      "label": "Nectar d'agave"
+   },
+   {
+      "value": "ahi tuna",
+      "label": "Ahi thon"
+   },
+   {
+      "value": "alfredo pasta sauce",
+      "label": "Sauce pour pâtes alfredo"
+   },
+   {
+      "value": "almond extract",
+      "label": "Extrait d'amande"
+   },
+   {
+      "value": "almond flour",
+      "label": "Poudre d'amande"
+   },
+   {
+      "value": "almond milk",
+      "label": "Lait d'amande"
+   },
+   {
+      "value": "almonds",
+      "label": "Amandes"
+   },
+   {
+      "value": "amaretto",
+      "label": "Amaretto"
+   },
+   {
+      "value": "ancho chiles",
+      "label": "Piments ancho"
+   },
+   {
+      "value": "anchovies",
+      "label": "Anchois"
+   },
+   {
+      "value": "andouille sausage",
+      "label": "Andouille"
+   },
+   {
+      "value": "angel food cake mix",
+      "label": "Mélange à gâteau des anges"
+   },
+   {
+      "value": "angel hair pasta",
+      "label": "Pâtes aux cheveux d'ange"
+   },
+   {
+      "value": "angostura bitters",
+      "label": "Amers d'angostura"
+   },
+   {
+      "value": "apple",
+      "label": "Pomme"
+   },
+   {
+      "value": "apple butter spread",
+      "label": "Tartinade au beurre de pomme"
+   },
+   {
+      "value": "apple cider",
+      "label": "Cidre"
+   },
+   {
+      "value": "apple juice",
+      "label": "Jus de pomme"
+   },
+   {
+      "value": "apple pie spice",
+      "label": "épices pour tarte aux pommes"
+   },
+   {
+      "value": "apricot preserves",
+      "label": "Confitures d'abricots"
+   },
+   {
+      "value": "apricots",
+      "label": "Abricots"
+   },
+   {
+      "value": "arborio rice",
+      "label": "Riz arborio"
+   },
+   {
+      "value": "arrowroot powder",
+      "label": "Poudre de marante"
+   },
+   {
+      "value": "artichoke heart quarters",
+      "label": "Quartiers de coeur d'artichaut"
+   },
+   {
+      "value": "artichokes",
+      "label": "Artichauts"
+   },
+   {
+      "value": "arugula",
+      "label": "Roquette"
+   },
+   {
+      "value": "asafoetida",
+      "label": "Asafoetida"
+   },
+   {
+      "value": "asafoetida powder",
+      "label": "Poudre d'asafoetida"
+   },
+   {
+      "value": "asiago cheese",
+      "label": "Fromage asiago"
+   },
+   {
+      "value": "asian pear",
+      "label": "Poire asiatique"
+   },
+   {
+      "value": "asparagus spears",
+      "label": "Tiges d'asperge"
+   },
+   {
+      "value": "avocado",
+      "label": "Avocat"
+   },
+   {
+      "value": "avocado oil",
+      "label": "Huile d'avocat"
+   },
+   {
+      "value": "baby bell peppers",
+      "label": "Petits poivrons"
+   },
+   {
+      "value": "baby bok choy",
+      "label": "Bébé bok choy"
+   },
+   {
+      "value": "baby carrots",
+      "label": "Petites carottes"
+   },
+   {
+      "value": "baby corn",
+      "label": "Bébé maïs"
+   },
+   {
+      "value": "baby spinach leaves",
+      "label": "Feuilles d'épinards"
+   },
+   {
+      "value": "baby-back ribs",
+      "label": "Côtes levées"
+   },
+   {
+      "value": "bacon",
+      "label": "Bacon"
+   },
+   {
+      "value": "bacon fat",
+      "label": "Graisse de lard"
+   },
+   {
+      "value": "baguette",
+      "label": "Baguette"
+   },
+   {
+      "value": "baking bar",
+      "label": "Barre de cuisson"
+   },
+   {
+      "value": "baking powder",
+      "label": "Levure chimique"
+   },
+   {
+      "value": "baking soda",
+      "label": "Bicarbonate de soude"
+   },
+   {
+      "value": "balsamic glaze",
+      "label": "Glaçage balsamique"
+   },
+   {
+      "value": "balsamic vinegar",
+      "label": "Vinaigre balsamique"
+   },
+   {
+      "value": "bamboo shoots",
+      "label": "Pousses de bambou"
+   },
+   {
+      "value": "banana",
+      "label": "Banane"
+   },
+   {
+      "value": "basmati rice",
+      "label": "Riz basmati"
+   },
+   {
+      "value": "bay leaves",
+      "label": "Feuilles de laurier"
+   },
+   {
+      "value": "bbq sauce",
+      "label": "Sauce barbecue"
+   },
+   {
+      "value": "beans",
+      "label": "Haricots"
+   },
+   {
+      "value": "beef",
+      "label": "Bœuf"
+   },
+   {
+      "value": "beef brisket",
+      "label": "Poitrine de boeuf"
+   },
+   {
+      "value": "beef broth",
+      "label": "Bouillon de boeuf"
+   },
+   {
+      "value": "beef chuck roast",
+      "label": "Rôti de paleron de boeuf"
+   },
+   {
+      "value": "beef stock",
+      "label": "De bouillon de bœuf"
+   },
+   {
+      "value": "beef tenderloin",
+      "label": "Filet de bœuf"
+   },
+   {
+      "value": "beer",
+      "label": "Bière"
+   },
+   {
+      "value": "beets",
+      "label": "Betteraves"
+   },
+   {
+      "value": "bell pepper",
+      "label": "Poivron"
+   },
+   {
+      "value": "berries",
+      "label": "Baies"
+   },
+   {
+      "value": "biscuit mix",
+      "label": "Mélange de biscuits"
+   },
+   {
+      "value": "biscuits",
+      "label": "Des biscuits"
+   },
+   {
+      "value": "bittersweet chocolate",
+      "label": "Chocolat amer"
+   },
+   {
+      "value": "black bean sauce",
+      "label": "Sauce aux haricots noirs"
+   },
+   {
+      "value": "black beans",
+      "label": "Haricots noirs"
+   },
+   {
+      "value": "black olives",
+      "label": "Olives noires"
+   },
+   {
+      "value": "black pepper",
+      "label": "Poivre noir"
+   },
+   {
+      "value": "black sesame seeds",
+      "label": "Graines de sésame noir"
+   },
+   {
+      "value": "blackberries",
+      "label": "Mûres"
+   },
+   {
+      "value": "blanched almonds",
+      "label": "Amandes blanchies"
+   },
+   {
+      "value": "blood orange",
+      "label": "Orange sanguine"
+   },
+   {
+      "value": "blue cheese",
+      "label": "Fromage bleu"
+   },
+   {
+      "value": "blueberries",
+      "label": "Myrtilles"
+   },
+   {
+      "value": "bok choy",
+      "label": "Bok choy"
+   },
+   {
+      "value": "boneless skinless chicken breast",
+      "label": "Poitrine de poulet désossée et sans peau"
+   },
+   {
+      "value": "bourbon",
+      "label": "Bourbon"
+   },
+   {
+      "value": "brandy",
+      "label": "Brandy"
+   },
+   {
+      "value": "bread",
+      "label": "Pain"
+   },
+   {
+      "value": "bread flour",
+      "label": "Farine de pain"
+   },
+   {
+      "value": "breakfast links",
+      "label": "Liens de petit-déjeuner"
+   },
+   {
+      "value": "brie",
+      "label": "Brie"
+   },
+   {
+      "value": "broccoli",
+      "label": "Brocoli"
+   },
+   {
+      "value": "broccoli florets",
+      "label": "Bouquets de brocoli"
+   },
+   {
+      "value": "brown rice",
+      "label": "Riz brun"
+   },
+   {
+      "value": "brown rice flour",
+      "label": "Farine de riz brun"
+   },
+   {
+      "value": "brown sugar",
+      "label": "Cassonade"
+   },
+   {
+      "value": "brownie mix",
+      "label": "Mélange de brownies"
+   },
+   {
+      "value": "brussel sprouts",
+      "label": "Choux de Bruxelles"
+   },
+   {
+      "value": "bulgur",
+      "label": "Boulgour"
+   },
+   {
+      "value": "butter",
+      "label": "Beurre"
+   },
+   {
+      "value": "butterhead lettuce",
+      "label": "Laitue pommée"
+   },
+   {
+      "value": "buttermilk",
+      "label": "Babeurre"
+   },
+   {
+      "value": "butternut squash",
+      "label": "Courge butternut"
+   },
+   {
+      "value": "butterscotch chips",
+      "label": "Chips de caramel"
+   }
+]
